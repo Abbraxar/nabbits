@@ -1,0 +1,9 @@
+[package]
+name = "nabbits"
+version = "0.1.0"
+authors = ["Alix Mauro <alix.mauro@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+sdl2 = "0.36.0"
+bevy_ecs = "0.13.2"
